@@ -159,7 +159,7 @@ A console-based implementation of the classic 2048 game demonstrating object-ori
 
 # 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/sameen-ali-909b7b368)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sameen-ali-909b7b368/?skipRedirect=true)
 
 ---
 
