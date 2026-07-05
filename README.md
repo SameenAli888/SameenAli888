@@ -72,7 +72,7 @@
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
 ## 🤖 Emotion Detection Through Audio
 A deep learning application that detects human emotions from speech using audio signal processing and neural networks.
