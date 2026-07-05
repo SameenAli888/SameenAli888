@@ -119,9 +119,7 @@ A console-based implementation of the classic 2048 game demonstrating object-ori
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SameenAli888&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SameenAli888&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SameenAli888&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -132,16 +130,6 @@ A console-based implementation of the classic 2048 game demonstrating object-ori
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=SameenAli888&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-#  GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SameenAli888&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </p>
 
