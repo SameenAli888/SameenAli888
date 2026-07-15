@@ -74,42 +74,42 @@
 
 #  Featured Projects
 
-## 🤖 Emotion Detection Through Audio
+##  Emotion Detection Through Audio
 A deep learning application that detects human emotions from speech using audio signal processing and neural networks.
 
 **Tech Stack:** Python • TensorFlow • Librosa • Streamlit
 
 ---
 
-## 🐾 Animal Detection System
+##  Animal Detection System
 A computer vision application that detects and classifies animals using machine learning and image processing techniques.
 
 **Tech Stack:** Python • TensorFlow • OpenCV
 
 ---
 
-## ☁️ CloudAttend
+##  CloudAttend
 A full-stack attendance management web application with a responsive user interface and MySQL database integration.
 
 **Tech Stack:** HTML • CSS • JavaScript • MySQL
 
 ---
 
-## 🍽️ Digital Recipe Book
+##  Digital Recipe Book
 A full-stack recipe management system where users can browse, add, edit, and organize recipes.
 
 **Tech Stack:** C# • MySQL • HTML • CSS
 
 ---
 
-## 🚐 Vroomly
+##  Vroomly
 A modern UI/UX design project for a van management platform focused on usability, accessibility, and responsive design.
 
 **Tools:** Figma • UI/UX Design
 
 ---
 
-## 🎮 2048 Game
+##  2048 Game
 A console-based implementation of the classic 2048 game demonstrating object-oriented programming and game logic.
 
 **Tech Stack:** C++
@@ -157,7 +157,7 @@ A console-based implementation of the classic 2048 game demonstrating object-ori
 
 ---
 
-# 🌐 Connect With Me
+#  Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sameen-ali-909b7b368/?skipRedirect=true)
 
